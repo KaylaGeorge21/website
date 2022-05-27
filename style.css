@@ -105,8 +105,9 @@ header{
 }
 
 a {
-  color: purple;
-  text-decoration: none;
+  color: indigo;
+  font-style: bold;
+
 }
 a:hover {
   text-decoration: underline;
